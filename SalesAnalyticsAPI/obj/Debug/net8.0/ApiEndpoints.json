@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SalesAnalyticsAPI.Controllers.SalesController",
+    "Method": "GetRevenue",
+    "RelativePath": "api/Sales/revenue",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SalesAnalyticsAPI.DTO.RevenueRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

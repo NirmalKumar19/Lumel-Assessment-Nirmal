@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net\\SalesAnalyticsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\controllers\\refreshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\controllers\\refreshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\services\\refreshjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\services\\refreshjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\services\\csvimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\data\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\data\\salesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\services\\salesanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\services\\salesanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\model\\salescsvrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\model\\salescsvrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\salesanalyticsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\salesanalyticsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\dto\\revenueresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\dto\\revenueresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\dto\\revenuerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\dto\\revenuerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|d:\\dot net\\salesanalyticsapi\\salesanalyticsapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C081FF-AD52-4554-A6A0-11DF3BD95283}|SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj|solutionrelative:salesanalyticsapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesAnalysisService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Services\\SalesAnalysisService.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Services\\SalesAnalysisService.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Services\\SalesAnalysisService.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Services\\SalesAnalysisService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBAwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:47:07.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:43:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesDbContext.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Data\\SalesDbContext.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Data\\SalesDbContext.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Data\\SalesDbContext.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Data\\SalesDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:45:47.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvImportService.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Services\\CsvImportService.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Services\\CsvImportService.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Services\\CsvImportService.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Services\\CsvImportService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:47:20.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefreshController.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Controllers\\RefreshController.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Controllers\\RefreshController.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Controllers\\RefreshController.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Controllers\\RefreshController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:43:44.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Program.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Program.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:08:05.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\appsettings.json",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\appsettings.json",
+              "RelativeToolTip": "SalesAnalyticsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T09:08:28.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesCsvRow.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Model\\SalesCsvRow.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Model\\SalesCsvRow.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Model\\SalesCsvRow.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Model\\SalesCsvRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:01:19.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshJob.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Services\\RefreshJob.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Services\\RefreshJob.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Services\\RefreshJob.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Services\\RefreshJob.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:47:30.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RevenueResponseDto.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\DTO\\RevenueResponseDto.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\DTO\\RevenueResponseDto.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\DTO\\RevenueResponseDto.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\DTO\\RevenueResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:47:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RevenueRequestDto.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\DTO\\RevenueRequestDto.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\DTO\\RevenueRequestDto.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\DTO\\RevenueRequestDto.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\DTO\\RevenueRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:47:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesAnalyticsAPI",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj",
+              "RelativeToolTip": "SalesAnalyticsAPI\\SalesAnalyticsAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T08:43:54.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Model\\Product.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Model\\Product.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:46:33.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Model\\Order.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Model\\Order.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Model\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA/wAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:46:19.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Model\\Customer.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Model\\Customer.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:46:45.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "SalesAnalyticsAPI\\Data\\SeedData.cs",
+              "ToolTip": "D:\\Dot Net\\SalesAnalyticsAPI\\SalesAnalyticsAPI\\Data\\SeedData.cs",
+              "RelativeToolTip": "SalesAnalyticsAPI\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:46:00.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
